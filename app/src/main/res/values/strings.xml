@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WestpacWeatherApp</string>
+    <string name="error_no_connection">Cannot connect to server. Please, check your Internet connectivity.</string>
+</resources>
